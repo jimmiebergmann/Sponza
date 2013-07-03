@@ -1,0 +1,4 @@
+Sponza
+======
+
+Sponza OBJ Model
