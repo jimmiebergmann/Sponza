@@ -267,7 +267,7 @@ d 0.000000
 illum 2
 map_Kd textures/sponza_roof_diff.tga
 map_Ka textures/sponza_roof_diff.tga
-map_Ka textures/sponza_roof_ddn.tga
+map_Disp textures/sponza_roof_ddn.tga
 
 newmtl vase
 Ns 7.843137
